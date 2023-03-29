@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nashtern</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username_email">Username/Email</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="name">name</string>
+    <string name="enter_profile_details">Enter Profile Details</string>
+    <string name="enter_name_and_dp">Enter Name and DP</string>
+    <string name="name1">Name</string>
+    <string name="set_pic">set pic</string>
+    <string name="hello">Hello,</string>
+    <string name="done">next</string>
+    <string name="api_is_fetching_data">API is Fetching data...</string>
+</resources>
